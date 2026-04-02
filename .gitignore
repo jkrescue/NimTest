@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+# Clash/Mihomo 订阅 URL（单行），见 scripts/config.yaml.example
+scripts/config.yaml
+cases/domino-automotive-aero/data/*
+!cases/domino-automotive-aero/data/.gitkeep
